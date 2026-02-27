@@ -1,0 +1,2 @@
+This was previously deleted.in delete commit.
+add Styles for footer 
